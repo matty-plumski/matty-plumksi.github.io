@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+##Customer Relationship Coordinator, ITS, Victoria University of Wellington
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[matt.plummer@vuw.ac.nz](mailto:matt.plummer@vuw.ac.nz)
